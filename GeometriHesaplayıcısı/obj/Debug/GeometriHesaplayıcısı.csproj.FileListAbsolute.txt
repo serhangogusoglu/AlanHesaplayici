@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\obj\Debug\GeometriHesaplayıcısı.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\obj\Debug\GeometriHesaplayıcısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\obj\Debug\GeometriHesaplayıcısı.Form1.resources
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\obj\Debug\GeometriHesaplayıcısı.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\obj\Debug\GeometriHesaplayıcısı.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\obj\Debug\GeometriHesaplayıcısı.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\bin\Debug\GeometriHesaplayıcısı.exe.config
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\bin\Debug\GeometriHesaplayıcısı.exe
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\bin\Debug\GeometriHesaplayıcısı.pdb
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\obj\Debug\GeometriHesaplayıcısı.exe
+C:\Users\LENOVO\Desktop\c#vısualstudıo\GeometriHesaplayıcısı\GeometriHesaplayıcısı\obj\Debug\GeometriHesaplayıcısı.pdb
